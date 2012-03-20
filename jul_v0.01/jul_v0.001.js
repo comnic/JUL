@@ -1,3 +1,5 @@
+//유용한 함수들
+
 //비밀번호 체크, 영문 대문자 / 소문자 / 숫자 반드시 포함하여 8-20글자로 구성 
 String.prototype.isPwdNew = function(){
 
